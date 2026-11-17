@@ -1,0 +1,9 @@
+{
+    "accuracy": 0.7708333333333334,
+    "precision": 0.7093023255813954,
+    "recall": 0.6703296703296703,
+    "f1_score": 0.6892655367231638,
+    "training_records": 960,
+    "testing_records": 240,
+    "dataset_records": 1200
+}

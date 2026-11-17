@@ -1,0 +1,9 @@
+Feature,Importance
+remainder__CGPA,0.3941258843034625
+remainder__Technical_Skills_Score,0.17295247834962232
+remainder__Intermediate_Diploma_Percentage,0.11493010273447694
+remainder__10th_Percentage,0.11043641176778418
+remainder__Communication_Skills_Score,0.1095291109831895
+remainder__Backlogs,0.07005188410904198
+categorical__Internship_Yes,0.014342041292891855
+categorical__Internship_No,0.013632086459530743
